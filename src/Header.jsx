@@ -11,7 +11,7 @@ function Header() {
           </a>
           <button
             className="navbar-toggler"
-            type="button"
+           type="button"
             data-toggle="collapse"
             data-target="#navbarCollapse"
             aria-controls="navbarCollapse"
