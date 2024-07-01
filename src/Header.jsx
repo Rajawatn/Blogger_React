@@ -6,8 +6,8 @@ function Header() {
     <>
       <nav className="navbar navbar-expand-md navbar-dark bg-dark sticky-top">
         <div className="container">
-          <a className="navbar-brand" to="/home">
-            <img src="assets/images/logo.png" alt="Angular Project" />
+          <a className="navbar-brand" to="/home"><i class="fa fa-code text-light" aria-hidden="true "><b>Blogger</b>-React</i>
+            <span className="text-light mr-5"><b ></b></span>
           </a>
           <button
             className="navbar-toggler"
